@@ -13,17 +13,17 @@
 
         <Button
             android:id="@+id/button1"
-            style="@style/my_style"
+            style="@style/myStyle"
             android:text="Button 1" />
 
         <Button
             android:id="@+id/button2"
-            style="@style/my_style"
+            style="@style/myStyle"
             android:text="Button 2" />
 
         <Button
             android:id="@+id/button3"
-            style="@style/my_style"
+            style="@style/myStyle"
             android:text="Button 3" />
 
 
